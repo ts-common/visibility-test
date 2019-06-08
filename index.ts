@@ -1,1 +1,2 @@
-const myPrivateObject = "Hello world!"
+class MyPrivateClass {
+}

@@ -1,1 +1,1 @@
-const f = myPrivateObject
+const x = new MyPrivateClass()
