@@ -1,0 +1,23 @@
+{
+  "name": "visibility-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "tsc && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ts-common/visibility-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ts-common/visibility-test/issues"
+  },
+  "homepage": "https://github.com/ts-common/visibility-test#readme",
+  "devDependencies": {
+    "typescript": "^3.5.1"
+  }
+}

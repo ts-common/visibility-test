@@ -1,0 +1,1 @@
+const myPrivateObject = "Hello world!"
